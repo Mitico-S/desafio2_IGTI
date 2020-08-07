@@ -1,7 +1,8 @@
 {
-  "name": "desafio2_IGTI",
+  "name": "desafio",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "Module",
   "repository": "https://github.com/Mitico-S/desafio2_IGTI.git",
   "author": "João Pedro Alves <jotalmeida007@hotmail.com>",
   "license": "MIT"
